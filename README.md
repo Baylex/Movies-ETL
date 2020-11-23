@@ -18,6 +18,7 @@ Kaggle Movie Metadata, 24 columns
 ![Pic 2](https://github.com/Baylex/Movies-ETL/blob/main/Resources/d1_2kaggle_metadata.PNG)
 
 Kaggle Ratings data, 2602489 rows by 4 columns
+
 ![Pic 3](https://github.com/Baylex/Movies-ETL/blob/main/Resources/d1_3ratings.PNG)
 
 ## Transforming 
@@ -33,6 +34,7 @@ Wikipedia Movies merged with Kaggle Movies data, all column names and row counts
 ![Pic 8](https://github.com/Baylex/Movies-ETL/blob/main/Resources/d3_6movies.PNG)
 
 Merged Movies with Kaggle ratings, all of the column names and row counts, 6052 rows.
+
 ![Pic 9](https://github.com/Baylex/Movies-ETL/blob/main/Resources/d3_5movies_ratings.PNG)
 
 ## Loading
