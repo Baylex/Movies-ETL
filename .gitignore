@@ -1,6 +1,7 @@
 # Files are too large, can't push them
-movies_metadata.csv
-ratings.csv
+# movies_metadata.csv
+# ratings.csv
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
