@@ -1,5 +1,5 @@
 # Movies-ETL
-UT McCombs Data Boot Camp: Module 8 Extract, Transform, Load
+Extract, Transform, Load
 
 ## Purpose
 1. Create an ETL pipeline from raw data to a SQL database.
